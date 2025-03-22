@@ -1,4 +1,4 @@
-<h3 align="left">👋 Hi, I'm [Your Name]!<br><br>I’m a web developer with a strong focus on the MERN stack (MongoDB, Express, React, Node.js) and a passion for building full-stack apps. I’m also exploring Machine Learning, experimenting with models to solve problems and enhance my projects.<br><br>Feel free to check out my work and reach out if you’d like to collaborate!</h3>
+<h3 align="left">👋 Hi, I'm AKANKSHA!<br><br>I’m a web developer with a strong focus on the MERN stack (MongoDB, Express, React, Node.js) and a passion for building full-stack apps. I’m also exploring Machine Learning, experimenting with models to solve problems and enhance my projects.<br><br>Feel free to check out my work and reach out if you’d like to collaborate!</h3>
 
 ###
 
